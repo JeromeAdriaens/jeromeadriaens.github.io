@@ -1,5 +1,5 @@
-baseURL: "https://jerome-adriaens.github.io" 
-title: Moritz-Maria von Igelfeld
+baseURL: "" 
+title: Jerome Adriaens
 theme: PaperMod
 
 enableInlineShortcodes: true
