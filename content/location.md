@@ -1,8 +1,8 @@
 ---
 title: "Location"
-date: 2024-05-08
+date: 2025-08-28
 hidemeta: true
-description: "Professor Dr von Igelfeld's mailing and office addresses at the Institute of Romance Philology."
+description: "Jérôme Adriaens's mailing and office addresses at the Montefiore Institute."
 
 ---
 
@@ -10,24 +10,22 @@ description: "Professor Dr von Igelfeld's mailing and office addresses at the In
 
 #### Mailing address
 
-Professor Dr von Igelfeld  
-Institute of Romance Philology  
-University of Regensburg  
-Regensburg, Germany
+Jérôme Adriaens\
+Allée de la Découverte 11\
+4000 Liège, Belgium\
+University of Liège  
 
 ---
 
 #### Office address
 
-Room 133  
-Institute of Romance Philology  
-University of Regensburg
+Room 1.83a\
+B28 - Montefiore Institute\
+University of Liège 
 
 ---
 
 #### Office location
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10470.896334563153!2d12.085487114429176!3d48.99680799095555!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479fc1126394f30f%3A0xb4c5000594ee5334!2sUniversity%20of%20Regensburg!5e0!3m2!1sen!2sus!4v1714871932562!5m2!1sen!2sus" 
-width="700" height="500" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2846.5601523768437!2d5.560221299999999!3d50.5860924!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c0f82d7853ca8f%3A0xdd2d29bb0ffb079c!2sB28%20-%20Montefiore%20Institute!5e1!3m2!1sen!2sbe!4v1756375060667!5m2!1sen!2sbe" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
