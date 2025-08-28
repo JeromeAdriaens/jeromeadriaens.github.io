@@ -48,7 +48,10 @@ params:
     profileMode:
           enabled: true
           title: Jérôme Adriaens
-          subtitle: "I am a **PhD student** in the neuroengineering laboratory from University of Liège working on the integration of neuroscience and robotics. My work currently focuses on the incorporation of **neuromodulation** within neural network based **dimensionality reduction**."
+          subtitle: |
+            🚧 **This page is still under construction** 🚧 [^1] <br>
+            I am a **PhD student** in the neuroengineering laboratory from University of Liège working on the integration of neuroscience and robotics. My work currently focuses on the incorporation of **neuromodulation** within neural network based **dimensionality reduction**.
+            [^1]: <small>as my thesis</small>.
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
