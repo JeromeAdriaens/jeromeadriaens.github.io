@@ -14,8 +14,8 @@ enableEmoji: true
 
 menu:
     main:
-        - name: Papers
-          url: papers/
+        - name: Publications
+          url: publications/
           weight: 2
         - name: Courses
           url: courses/
@@ -28,16 +28,16 @@ params:
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: false
-    disableThemeToggle: true
+    disableThemeToggle: false
     ShowShareButtons: false
     ShowReadingTime: false
     disableSpecial1stPost: true
     disableAnchoredHeadings: true
     ShowPostNavLinks: false
-    ShowBreadCrumbs: false
+    ShowBreadCrumbs: true
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["courses","papers"]
+    MainSections: ["courses","publications"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -49,15 +49,16 @@ params:
           enabled: true
           title: Jérôme Adriaens
           subtitle: |
-            🚧 **This page is still under construction** 🚧 [^1] <br>
-            I am a **PhD student** in the neuroengineering laboratory from University of Liège working on the integration of neuroscience and robotics. My work currently focuses on the incorporation of **neuromodulation** within neural network based **dimensionality reduction**.
-            [^1]: <small>as my thesis</small>.
-          imageUrl: "picture.jpeg"
+            ## About me <br>
+            I am a **PhD student** in the <a href="https://www.neuroengineering.uliege.be/cms/c_11384013/en/neuroengineering-laboratory" target="_blank" style="color: #00707F;">neuroengineering laboratory</a> from University of Liège working on the integration of neuroscience and robotics.<br><br> 
+            ## Research <br>
+            My work currently focuses on the incorporation of **neuromodulation** within neural network based **dimensionality reduction**. The objective is to **learn manifolds** in dynamical systems using modulated constrained autoencoders.
+          imageUrl: "myface.jpg"
           imageWidth: 160
           imageHeight: 160
           buttons:
             - name: Publications
-              url: papers/
+              url: publications/
             - name: Courses
               url: courses/
 
