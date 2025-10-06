@@ -64,7 +64,7 @@ params:
 
     socialIcons:
         - name: CV
-          url: cv.pdf
+          url: Oct_2025_website.pdf
         - name: Email
           url: mailto:jadriaens@uliege.be
         - name: Google Scholar
