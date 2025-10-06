@@ -24,7 +24,7 @@ menu:
 params:
     description: "This website hosts Jérôme Adriaens's research papers, books, course materials, data, curriculum vitae, and contact information."
     author: Jérôme Adriaens
-    # googleAnalyticsID: "G-XXXXX"
+    googleAnalyticsID: "G-BVJ2GQ6K6J"
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: false
